@@ -2,17 +2,17 @@
 [![MasterHead](https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif)](https://muhammadumair.io)
 <h1 align="center">Hi 👋, I'm Umair</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
-<p align="right"> <img width="400" src="https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif" /> </p>
+<p align="center"> <img width="400" src="https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumair-7&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumair-7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadumair-7&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumair-7" /> </p>
 
-- 🔭 I’m currently working on **E-commerce websites**
+                               - 🔭 I’m currently working on **E-commerce websites**
 
-- 🌱 I’m currently learning **WEB 3.0**
+                               - 🌱 I’m currently learning **WEB 3.0**
 
-- 📫 How to reach me **muhammadumair11701@gmail.com**
+                               - 📫 How to reach me **muhammadumair11701@gmail.com**
 
-- ⚡ Fun fact **Prefer tea on coffee while coding!!**
+                               - ⚡ Fun fact **Prefer tea on coffee while coding!!**
 
 
 
